@@ -1,2 +1,2 @@
 # Scheduling-Algorithms
-CPU Scheduling Algorithms with Code &amp; Sample Output Screenshots
+CPU Scheduling Algorithms with Code &amp; Sample Input/Output Screenshots
